@@ -1,0 +1,17 @@
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\bin\Debug\net6.0\ParsingJson.exe
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\bin\Debug\net6.0\ParsingJson.deps.json
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\bin\Debug\net6.0\ParsingJson.runtimeconfig.json
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\bin\Debug\net6.0\ParsingJson.dll
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\bin\Debug\net6.0\ParsingJson.pdb
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.csproj.AssemblyReference.cache
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.AssemblyInfoInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.AssemblyInfo.cs
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.csproj.CoreCompileInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.csproj.CopyComplete
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.dll
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\refint\ParsingJson.dll
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.pdb
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ParsingJson.genruntimeconfig.cache
+C:\Users\kirstinmegga.ramos\source\repos\ParsingJson\ParsingJson\obj\Debug\net6.0\ref\ParsingJson.dll

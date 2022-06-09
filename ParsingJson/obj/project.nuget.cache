@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTvulbBD728I8d/pB6OKZ9SVi6b20bwIMla/9siARplbxIrDod19+/MNkzT3AZxRUtgmdcyOR3m7O/6gkG3D0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kirstinmegga.ramos\\source\\repos\\ParsingJson\\ParsingJson\\ParsingJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kirstinmegga.ramos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
